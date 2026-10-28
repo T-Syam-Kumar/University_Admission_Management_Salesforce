@@ -1,18 +1,18 @@
 # University Admission Management System using Salesforce
 
-## 📌 Project Overview
+##  Project Overview
 
 The **University Admission Management System** is a Salesforce-based application designed to simplify and manage the overseas university admission process. It centralizes student records, university and course details, admission applications, supporting documents, payments, counselor assignments, and admission decisions in one platform.
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Managing overseas university admissions involves handling multiple student applications, documents, payments, university details, and counselor reviews. When these activities are managed separately, tracking application progress and maintaining accurate records becomes difficult.
 
-## 💡 Proposed Solution
+##  Proposed Solution
 
 This project uses Salesforce CRM to connect admission-related activities through custom objects, record relationships, and centralized dashboards. Administrators manage student applications and payments, assign counselors after payment, and track document verification and admission decisions. Counselors review applications, communicate acceptance or rejection decisions to students through email, and record outcomes in counselor reports.
 
-## ✨ Key Features
+##  Key Features
 
 - **Student Management:** Create and maintain student records.
 - **University Management:** Store and manage university information.
@@ -25,7 +25,7 @@ This project uses Salesforce CRM to connect admission-related activities through
 - **Admission Decision Management:** Record acceptance or rejection decisions and communicate outcomes through email.
 - **Reports and Dashboards:** Monitor applications, course selections, payments, and counselor workload.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Salesforce CRM
 - Salesforce Custom Objects and Fields
@@ -35,7 +35,7 @@ This project uses Salesforce CRM to connect admission-related activities through
 - Salesforce Reports and Dashboards
 - Salesforce Email Communication
 
-## 🗂️ Salesforce Components
+##  Salesforce Components
 
 The project includes the following metadata components:
 
@@ -60,7 +60,7 @@ The project includes the following metadata components:
 7. University
 8. Course
 
-## 🔄 Admission Workflow
+##  Admission Workflow
 
 1. **Student Registration:** The administrator creates and maintains student records.
 2. **Application Submission:** Applications are associated with the relevant student, university, and course. Students can have multiple applications.
@@ -71,7 +71,7 @@ The project includes the following metadata components:
 7. **Admission Decision:** The counselor communicates the acceptance or rejection decision to the student through email.
 8. **Counselor Reporting:** The counselor records the verified application and its decision in the Counselor Report.
 
-## 📊 Reports and Dashboards
+##  Reports and Dashboards
 
 The project includes reports and dashboard components to support admission monitoring and decision-making.
 
@@ -82,7 +82,7 @@ The project includes reports and dashboard components to support admission monit
 - **Counselor Workload Report:** Displays records assigned to each counselor.
 - **Payments by Status:** Summarizes payment records by status.
 
-## 🧪 Testing and Validation
+##  Testing and Validation
 
 The main admission workflow is validated through the following scenarios:
 
@@ -94,7 +94,7 @@ The main admission workflow is validated through the following scenarios:
 - Record an admission decision and create a counselor report.
 - Verify that application information can be monitored through reports.
 
-## ✅ Project Outcomes
+##  Project Outcomes
 
 - Centralized student and admission application information.
 - Organized tracking of application documents and payments.
@@ -102,14 +102,14 @@ The main admission workflow is validated through the following scenarios:
 - Recorded admission decisions and student communication.
 - Improved visibility into applications, course selections, payment status, and counselor workload.
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Automate additional admission-processing activities using Salesforce Flow.
 - Introduce a student self-service portal for application tracking.
 - Implement automated application-status notifications.
 - Enhance dashboards for admission trends and performance analysis.
 
-## 👨‍💻 Project Information
+##  Project Information
 
 **Project Name:** University Admission Management System  
 **Platform:** Salesforce CRM  
@@ -120,6 +120,6 @@ The main admission workflow is validated through the following scenarios:
 
 **Responsibilities:** Contributing to project planning, defining requirements, coordinating team activities, and supporting the delivery of the admission management solution.
 
-## 📝 Conclusion
+##  Conclusion
 
 The University Admission Management System demonstrates how Salesforce can streamline overseas university admissions through connected records, structured application tracking, counselor coordination, payment monitoring, and centralized reporting. It provides an organized approach to managing the admission journey from student registration to the final admission decision.
